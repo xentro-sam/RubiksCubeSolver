@@ -1,6 +1,4 @@
 #include "RubiksCube.h"
-#include <bits/stdc++.h>
-using namespace std;
 
 class RubiksCube3dArray : public RubiksCube {
 private:
@@ -104,12 +102,14 @@ public:
         this->l();
         this->l();
         this->l();
+
         return *this;
     }
 
     RubiksCube &l2() {
         this->l();
         this->l();
+
         return *this;
     }
 
@@ -130,12 +130,14 @@ public:
         this->f();
         this->f();
         this->f();
+
         return *this;
     }
 
     RubiksCube &f2() {
         this->f();
         this->f();
+
         return *this;
     }
 
