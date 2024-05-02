@@ -15,11 +15,11 @@ class RubiksCube {
 public:
  enum class FACE {
   UP,
-  DOWN,
   LEFT,
-  RIGHT,
   FRONT,
-  BACK
+  RIGHT,
+  BACK,
+  DOWN
  };
 
  enum class COLOR {
@@ -48,6 +48,12 @@ public:
   * @param Face, row, and column index
   */
  virtual COLOR getColor(FACE face, unsigned row, unsigned col) const = 0;
+
+ /*
+  * Returns the letter corresponding to the given color
+  * @param Color
+  */
+ char getColorLetter(COLOR color) const;
 
  /*
   * Returns true if the Rubik Cube is solved, otherwise returns false.
