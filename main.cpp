@@ -123,5 +123,9 @@ int main() {
     if (objectBitboard.isSolved()) cout << "Solved\n\n";
     else cout << "Not Solved\n\n";
 
+    // Create two Cubes ------------------------------------------------------------------------------------------
+    RubiksCubeBitboard cube1;
+    RubiksCubeBitboard cube2;
+
     return 0;
 }
