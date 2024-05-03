@@ -2,7 +2,7 @@
 
 class RubiksCubeBitboard : public RubiksCube {
 private:
-    uint64_t all_colors[6]{};
+    uint64_t solved_side_config[6]{};
     int arr[3][3] = {
         {0, 1, 2},
         {7, 8, 3},
@@ -30,7 +30,7 @@ private:
     //    Helper to getCorners()
     int get5bitCorner(string corner) {
         int ret = 0;
-        string actual_str = "";
+        string actual_str;
         for (auto c: corner) {
             if (c != 'W' && c != 'Y') continue;
             actual_str.push_back(c);
@@ -77,10 +77,10 @@ public:
         for (int side = 0; side < 6; side++) {
             uint64_t clr = 1 << side;
             bitboard[side] = 0;
-            for (int idx = 0; idx < 8; idx++) {
-                bitboard[side] |= clr << (8 * idx);
+            for (int faceIdx = 0; faceIdx < 8; faceIdx++) {
+                bitboard[side] |= clr << (8 * faceIdx);
             }
-            all_colors[side] = bitboard[side];
+            solved_side_config[side] = bitboard[side];
         }
     }
 
@@ -101,7 +101,7 @@ public:
 
     bool isSolved() const override {
         for (int i = 0; i < 6; i++) {
-            if (all_colors[i] != bitboard[i]) return false;
+            if (solved_side_config[i] != bitboard[i]) return false;
         }
         return true;
     }
@@ -384,6 +384,7 @@ public:
         //        cout << bottom_front_left << " "; print5bitbin(get5bitCorner(bottom_front_left )); cout << "\n";
         //        cout << bottom_back_right << " "; print5bitbin(get5bitCorner(bottom_back_right )); cout << "\n";
         //        cout << bottom_back_left << " "; print5bitbin(get5bitCorner(bottom_back_left )); cout << "\n";
+
         return ret;
     }
 };
