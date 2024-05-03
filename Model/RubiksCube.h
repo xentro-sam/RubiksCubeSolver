@@ -42,7 +42,7 @@ public:
 
  /*
   * Returns the color of the cell at (row, col) in face.
-  * If Rubik's Cube face is pointing at your, then the row numbering starts from the
+  * If Rubik's Cube face is pointing at you, then the row numbering starts from the
   * top to bottom, and column numbering starts from the left to right.
   * The rows and columns are 0-indexed.
   * @param Face, row, and column index
@@ -111,15 +111,36 @@ public:
  void print() const;
 
  /*
-  * Randomly shuffle the cube.
+  * Randomly shuffle the cube with 'times' moves and returns the moves performed.
   */
  vector<MOVE> randomShuffleCube(unsigned int times);
 
- // Rotational moves on Rubik Cube
-
+ /*
+  * Perform moves on the Rubik Cube
+  */
  RubiksCube &move(MOVE ind);
 
+ /*
+  * Invert a move
+  */
  RubiksCube &invert(MOVE ind);
+
+ /*
+  * Rotational Moves on the Rubik Cubes
+  *
+  * F, F’, F2,
+  * U, U’, U2,
+  * L, L’, L2,
+  * D, D’, D2,
+  * R, R’, R2,
+  * B, B’, B2
+  */
+
+ virtual RubiksCube &f() = 0;
+
+ virtual RubiksCube &fPrime() = 0;
+
+ virtual RubiksCube &f2() = 0;
 
  virtual RubiksCube &u() = 0;
 
