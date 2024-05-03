@@ -256,11 +256,11 @@ int main() {
     string fileName = "./Databases/cornerDepth5V1.txt";
 
     //    Code to create Corner Database
-    //    CornerDBMaker dbMaker(fileName, 0x77);
+    //    CornerDBMaker dbMaker(fileName, 0x99);
     //    dbMaker.bfsAndStore();
 
     RubiksCubeBitboard cube;
-    auto shuffleMoves = cube.randomShuffleCube(14);
+    auto shuffleMoves = cube.randomShuffleCube(13);
     cube.print();
     for (auto move: shuffleMoves) cout << cube.getMove(move) << " ";
     cout << "\n";
