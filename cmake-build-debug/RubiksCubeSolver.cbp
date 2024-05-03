@@ -96,6 +96,39 @@
 		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCubeBitboard.cpp">
 			<Option target="RubiksCubeSolver"/>
 		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PermutationIndexer.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
 		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/BFSSolver.h">
 			<Option target="RubiksCubeSolver"/>
 		</Unit>

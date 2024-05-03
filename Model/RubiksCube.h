@@ -50,7 +50,8 @@ public:
  virtual COLOR getColor(FACE face, unsigned row, unsigned col) const = 0;
 
  /*
-  * Returns the letter corresponding to the given color
+  * Returns the first letter of the given COLOR
+  * Eg: For COLOR::GREEN, it returns 'G'
   * @param Color
   */
  static char getColorLetter(COLOR color);
@@ -155,6 +156,12 @@ public:
  virtual RubiksCube &dPrime() = 0;
 
  virtual RubiksCube &d2() = 0;
+
+ string getCornerColorString(uint8_t ind) const;
+
+ uint8_t getCornerIndex(uint8_t ind) const;
+
+ uint8_t getCornerOrientation(uint8_t ind) const;
 };
 
 

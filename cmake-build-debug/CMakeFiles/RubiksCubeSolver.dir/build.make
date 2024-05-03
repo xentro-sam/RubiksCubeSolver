@@ -139,13 +139,88 @@ CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCubeBitboard.cpp -o CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.s
 
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o: CMakeFiles/RubiksCubeSolver.dir/flags.make
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o: /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.cpp
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o: CMakeFiles/RubiksCubeSolver.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o -MF CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o.d -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o -c /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.cpp
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.cpp > CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.i
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.cpp -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.s
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o: CMakeFiles/RubiksCubeSolver.dir/flags.make
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o: /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.cpp
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o: CMakeFiles/RubiksCubeSolver.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o -MF CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o.d -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o -c /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.cpp
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.cpp > CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.i
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.cpp -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.s
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o: CMakeFiles/RubiksCubeSolver.dir/flags.make
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o: /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.cpp
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o: CMakeFiles/RubiksCubeSolver.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o -MF CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o.d -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o -c /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.cpp
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.cpp > CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.i
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.cpp -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.s
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o: CMakeFiles/RubiksCubeSolver.dir/flags.make
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o: /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.cpp
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o: CMakeFiles/RubiksCubeSolver.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o -MF CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o.d -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o -c /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.cpp
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.cpp > CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.i
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.cpp -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.s
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o: CMakeFiles/RubiksCubeSolver.dir/flags.make
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o: /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.cpp
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o: CMakeFiles/RubiksCubeSolver.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o -MF CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o.d -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o -c /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.cpp
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.cpp > CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.i
+
+CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.cpp -o CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.s
+
 # Object files for target RubiksCubeSolver
 RubiksCubeSolver_OBJECTS = \
 "CMakeFiles/RubiksCubeSolver.dir/main.cpp.o" \
 "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube.cpp.o" \
 "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube3dArray.cpp.o" \
 "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube1dArray.cpp.o" \
-"CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.o"
+"CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.o" \
+"CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o" \
+"CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o" \
+"CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o" \
+"CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o" \
+"CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o"
 
 # External object files for target RubiksCubeSolver
 RubiksCubeSolver_EXTERNAL_OBJECTS =
@@ -155,9 +230,14 @@ RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube.cpp.o
 RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube3dArray.cpp.o
 RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube1dArray.cpp.o
 RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.o
+RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o
+RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o
+RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o
+RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o
+RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o
 RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/build.make
 RubiksCubeSolver: CMakeFiles/RubiksCubeSolver.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable RubiksCubeSolver"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable RubiksCubeSolver"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/RubiksCubeSolver.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

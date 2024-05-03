@@ -12,6 +12,11 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCube1dArray.cpp" "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube1dArray.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube1dArray.cpp.o.d"
   "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCube3dArray.cpp" "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube3dArray.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube3dArray.cpp.o.d"
   "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCubeBitboard.cpp" "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.o.d"
+  "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.cpp" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o.d"
+  "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.cpp" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o.d"
+  "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.cpp" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o.d"
+  "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.cpp" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o.d"
+  "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.cpp" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o.d"
   "/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/main.cpp" "CMakeFiles/RubiksCubeSolver.dir/main.cpp.o" "gcc" "CMakeFiles/RubiksCubeSolver.dir/main.cpp.o.d"
   )
 

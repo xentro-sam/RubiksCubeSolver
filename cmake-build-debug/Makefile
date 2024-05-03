@@ -225,6 +225,126 @@ Model/RubiksCubeBitboard.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.s
 .PHONY : Model/RubiksCubeBitboard.cpp.s
 
+PatternDatabases/CornerDBMaker.o: PatternDatabases/CornerDBMaker.cpp.o
+.PHONY : PatternDatabases/CornerDBMaker.o
+
+# target to build an object file
+PatternDatabases/CornerDBMaker.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.o
+.PHONY : PatternDatabases/CornerDBMaker.cpp.o
+
+PatternDatabases/CornerDBMaker.i: PatternDatabases/CornerDBMaker.cpp.i
+.PHONY : PatternDatabases/CornerDBMaker.i
+
+# target to preprocess a source file
+PatternDatabases/CornerDBMaker.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.i
+.PHONY : PatternDatabases/CornerDBMaker.cpp.i
+
+PatternDatabases/CornerDBMaker.s: PatternDatabases/CornerDBMaker.cpp.s
+.PHONY : PatternDatabases/CornerDBMaker.s
+
+# target to generate assembly for a file
+PatternDatabases/CornerDBMaker.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerDBMaker.cpp.s
+.PHONY : PatternDatabases/CornerDBMaker.cpp.s
+
+PatternDatabases/CornerPatternDatabase.o: PatternDatabases/CornerPatternDatabase.cpp.o
+.PHONY : PatternDatabases/CornerPatternDatabase.o
+
+# target to build an object file
+PatternDatabases/CornerPatternDatabase.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.o
+.PHONY : PatternDatabases/CornerPatternDatabase.cpp.o
+
+PatternDatabases/CornerPatternDatabase.i: PatternDatabases/CornerPatternDatabase.cpp.i
+.PHONY : PatternDatabases/CornerPatternDatabase.i
+
+# target to preprocess a source file
+PatternDatabases/CornerPatternDatabase.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.i
+.PHONY : PatternDatabases/CornerPatternDatabase.cpp.i
+
+PatternDatabases/CornerPatternDatabase.s: PatternDatabases/CornerPatternDatabase.cpp.s
+.PHONY : PatternDatabases/CornerPatternDatabase.s
+
+# target to generate assembly for a file
+PatternDatabases/CornerPatternDatabase.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/CornerPatternDatabase.cpp.s
+.PHONY : PatternDatabases/CornerPatternDatabase.cpp.s
+
+PatternDatabases/NibbleArray.o: PatternDatabases/NibbleArray.cpp.o
+.PHONY : PatternDatabases/NibbleArray.o
+
+# target to build an object file
+PatternDatabases/NibbleArray.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.o
+.PHONY : PatternDatabases/NibbleArray.cpp.o
+
+PatternDatabases/NibbleArray.i: PatternDatabases/NibbleArray.cpp.i
+.PHONY : PatternDatabases/NibbleArray.i
+
+# target to preprocess a source file
+PatternDatabases/NibbleArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.i
+.PHONY : PatternDatabases/NibbleArray.cpp.i
+
+PatternDatabases/NibbleArray.s: PatternDatabases/NibbleArray.cpp.s
+.PHONY : PatternDatabases/NibbleArray.s
+
+# target to generate assembly for a file
+PatternDatabases/NibbleArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/NibbleArray.cpp.s
+.PHONY : PatternDatabases/NibbleArray.cpp.s
+
+PatternDatabases/PatternDatabase.o: PatternDatabases/PatternDatabase.cpp.o
+.PHONY : PatternDatabases/PatternDatabase.o
+
+# target to build an object file
+PatternDatabases/PatternDatabase.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.o
+.PHONY : PatternDatabases/PatternDatabase.cpp.o
+
+PatternDatabases/PatternDatabase.i: PatternDatabases/PatternDatabase.cpp.i
+.PHONY : PatternDatabases/PatternDatabase.i
+
+# target to preprocess a source file
+PatternDatabases/PatternDatabase.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.i
+.PHONY : PatternDatabases/PatternDatabase.cpp.i
+
+PatternDatabases/PatternDatabase.s: PatternDatabases/PatternDatabase.cpp.s
+.PHONY : PatternDatabases/PatternDatabase.s
+
+# target to generate assembly for a file
+PatternDatabases/PatternDatabase.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/PatternDatabase.cpp.s
+.PHONY : PatternDatabases/PatternDatabase.cpp.s
+
+PatternDatabases/math.o: PatternDatabases/math.cpp.o
+.PHONY : PatternDatabases/math.o
+
+# target to build an object file
+PatternDatabases/math.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.o
+.PHONY : PatternDatabases/math.cpp.o
+
+PatternDatabases/math.i: PatternDatabases/math.cpp.i
+.PHONY : PatternDatabases/math.i
+
+# target to preprocess a source file
+PatternDatabases/math.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.i
+.PHONY : PatternDatabases/math.cpp.i
+
+PatternDatabases/math.s: PatternDatabases/math.cpp.s
+.PHONY : PatternDatabases/math.s
+
+# target to generate assembly for a file
+PatternDatabases/math.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCubeSolver.dir/build.make CMakeFiles/RubiksCubeSolver.dir/PatternDatabases/math.cpp.s
+.PHONY : PatternDatabases/math.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -270,6 +390,21 @@ help:
 	@echo "... Model/RubiksCubeBitboard.o"
 	@echo "... Model/RubiksCubeBitboard.i"
 	@echo "... Model/RubiksCubeBitboard.s"
+	@echo "... PatternDatabases/CornerDBMaker.o"
+	@echo "... PatternDatabases/CornerDBMaker.i"
+	@echo "... PatternDatabases/CornerDBMaker.s"
+	@echo "... PatternDatabases/CornerPatternDatabase.o"
+	@echo "... PatternDatabases/CornerPatternDatabase.i"
+	@echo "... PatternDatabases/CornerPatternDatabase.s"
+	@echo "... PatternDatabases/NibbleArray.o"
+	@echo "... PatternDatabases/NibbleArray.i"
+	@echo "... PatternDatabases/NibbleArray.s"
+	@echo "... PatternDatabases/PatternDatabase.o"
+	@echo "... PatternDatabases/PatternDatabase.i"
+	@echo "... PatternDatabases/PatternDatabase.s"
+	@echo "... PatternDatabases/math.o"
+	@echo "... PatternDatabases/math.i"
+	@echo "... PatternDatabases/math.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
