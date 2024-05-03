@@ -93,6 +93,9 @@
 		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCubeBitboard.cpp">
 			<Option target="RubiksCubeSolver"/>
 		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/BFSSolver.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
 		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/DFSSolver.h">
 			<Option target="RubiksCubeSolver"/>
 		</Unit>
