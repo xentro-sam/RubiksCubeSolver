@@ -154,12 +154,6 @@ public:
 
  virtual RubiksCube &l2() = 0;
 
- virtual RubiksCube &f() = 0;
-
- virtual RubiksCube &fPrime() = 0;
-
- virtual RubiksCube &f2() = 0;
-
  virtual RubiksCube &r() = 0;
 
  virtual RubiksCube &rPrime() = 0;
