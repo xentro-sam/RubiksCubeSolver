@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/PatternDatabase/PatternDatabase.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
 		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCube.cpp">
 			<Option target="RubiksCubeSolver"/>
 		</Unit>
@@ -97,6 +100,9 @@
 			<Option target="RubiksCubeSolver"/>
 		</Unit>
 		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/DFSSolver.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/IDAstarSolver.h">
 			<Option target="RubiksCubeSolver"/>
 		</Unit>
 		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/IDDFSSolver.h">
